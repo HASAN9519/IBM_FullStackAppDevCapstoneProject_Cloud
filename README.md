@@ -1,1 +1,1 @@
-# coding-project-template
+# Coding Project for IBM Full Stack application Development course
