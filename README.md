@@ -14,3 +14,4 @@ Password: dragonball95
 
 backend_url = https://shehab101119-3030.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai
 sentiment_analyzer_url = https://sentianalyzer.1ws1hmcbb1uf.us-south.codeengine.appdomain.cloud
+searchcars_url= https://shehab101119-3050.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai
