@@ -114,7 +114,7 @@ def get_dealer_reviews(request, dealer_id):
     # if dealer id has been provided
     if(dealer_id):
         # endpoint = "/fetchReviews/dealer/"+str(dealer_id)
-        endpoint = "/fetchReviews/dealer/id/"+str(dealer_id)
+        endpoint = "/fetchReviews/dealer/"+str(dealer_id)
 
         reviews = get_request(endpoint)
         for review_detail in reviews:
